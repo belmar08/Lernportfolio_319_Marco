@@ -1,6 +1,6 @@
 # Modul 319
 ## Lernportfolio
-### Tagesreflexion: Einführung in Java
+### Tag 1: Einführung in Java
 ##### Datum: 21. Februar 2025
 Heute hat das Modul 319 begonnen, in dem wir uns mit Java beschäftigen. Zuerst erhielten wir eine Einführung in die Sprache und ihre grundlegenden Konzepte. Mit Hilfe des Miro-Boards visualisierten wir zentrale Begriffe und Strukturen von Java, was uns half, ein erstes Verständnis für die Sprache zu entwickeln.
 
