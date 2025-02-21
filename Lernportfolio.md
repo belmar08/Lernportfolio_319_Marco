@@ -11,21 +11,27 @@ Besonders hilfreich fand ich die Arbeit mit Miro, da man so einen guten Überbli
 ##### Aufgaben
 ###### Aufgabe SOL
 **Was ist ein Tandem?** 
+
 Ein Tandem ist eine Gruppe. (In unserem Fall ist es eine Zweiergruppe)
 
 **Aus welchen Kompetenzen bildet sich die Handlungskompetenz?**
+
 Handlungskompetenz setzt sich aus Fach-, Methoden-, Sozial- und Selbstkompetenz zusammen.
 
 **Was ist der Unterschied zwischen einem Lern- und einem Nachweis-Portfolio?**
+
 Ein Lernportfolio dokumentiert den Lernprozess, während ein Nachweisportfolio abgeschlossene Arbeiten als Leistungsnachweis enthält.
 
 **Was ist ein Beleg und wozu wird er verwendet?**
+
 Ein Beleg ist ein schriftlicher oder digitaler Nachweis für eine erbrachte Leistung.
 
 **Wann ist ein Nachweis abgenommen?**
+
 Ein Nachweis ist abgenommen, wenn er geprüft und als vollständig anerkannt wurde.
 
 **Welche Regeln gelten im Schulzimmer?**
+
 Im Schulzimmer gelten Regeln wie Pünktlichkeit, respektvoller Umgang und sorgfältiger Umgang mit Materialien.
 
 ### Tag 2 (28.02.2025)
