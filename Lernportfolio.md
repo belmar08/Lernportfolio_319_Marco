@@ -44,17 +44,29 @@ Besonders hilfreich fand ich die Arbeit mit Miro, da man so einen guten Überbli
 
 ##### Aufgaben
 ###### Aufgabe GitLAB
+
 **Was macht ein Versionskontrollsystem?**
+
 Ein Versionskontrollsystem wie Git speichert und verfolgt Änderungen am Code. Es ermöglicht Entwicklern, frühere Versionen wiederherzustellen, Fehler rückgängig zu machen und effizient im Team zusammenzuarbeiten.
+
 **Welche GIT Server kennen Sie?**
+
 GitHub, GitLab und Bitbucket sind bekannte Git-Server, die Entwicklern ermöglichen, Code zu verwalten, zu versionieren und gemeinsam daran zu arbeiten.
+
 **Was braucht es auf dem lokalen Rechner, um ein GIT-Repo zu unterhalten?**
+
 Du brauchst einen GitLab-Account, einen Code-Editor und GitBash, um den SSH-Link auf deinem Rechner zu klonen.
+
 **Das Konzept von Git verstehen (Screenccast ab Position 6:38)**
-![Git](Git_konzept)
+
+![Git](./Bilder/Git_konzept.png)
+
 **Zwei Möglichkeiten, GIT-Kommandos auszuführen?**
+
 **Bedienung und Funktionsweise von GitHUB-Desktop**
+
 **Kann Gitlab-Seite auf Englisch anzeigen lassen.**
+
 
 ### Tag 3 (07.03.2025)
 
