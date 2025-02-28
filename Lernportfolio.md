@@ -40,15 +40,15 @@ Ein Nachweis ist abgenommen, wenn er geprüft und als vollständig anerkannt wur
 
 Im Schulzimmer gelten Regeln wie Pünktlichkeit, respektvoller Umgang und sorgfältiger Umgang mit Materialien.
 
-### Tag 2: 
+#### Tag 2: GitHub, Java und IDE-Nutzung
 
-##### Datum: 21. Februar 2025
+##### Datum: 28. Februar 2025
 
-Heute hat das Modul 319 begonnen, in dem wir uns mit Java beschäftigen. Zuerst erhielten wir eine Einführung in die Sprache und ihre grundlegenden Konzepte. Mit Hilfe des Miro-Boards visualisierten wir zentrale Begriffe und Strukturen von Java, was uns half, ein erstes Verständnis für die Sprache zu entwickeln.
+Heute war der zweite Tag im Modul 319, und wir haben uns weiter mit Java beschäftigt. Der Fokus lag dabei auf der Arbeit mit GitHub und der Nutzung einer IDE (Integrated Development Environment).
 
-Nach der theoretischen Einführung starteten wir mit der SOL-Aufgabe, um erste Programme in Java zu schreiben. So konnten wir die erlernten Grundlagen direkt anwenden und ein Gefühl für die SPrache bekommen. Zusätzlich haben wir unser Lernportfolio und das Nachweisportfolio auf GitHub erstellt und begonnen damit zu arbeiten. Dies dient dazu, unsere Fortschritte zu dokumentieren und unsere Arbeit strukturiert festzuhalten.
+Wir haben unser GitHub-Repo weiter bearbeitet und dabei erste Schritte mit der Versionskontrolle gemacht. Wir haben gelernt, wie man Dateien hinzufügt, ändert und diese Änderungen in GitHub speichert. Das hat uns geholfen, den Umgang mit Versionsverwaltung und das Dokumentieren unserer Fortschritte zu vertiefen.
 
-Besonders hilfreich fand ich die Arbeit mit Miro, da man so einen guten Überblick über die wichtigsten Java-Konzepte bekommt. Die SOL-Aufgabe und die Arbeit mit GitHub haben mir einen praktischen Einstieg in Java und Versionsverwaltung gegeben. Insgesamt war der Tag gut strukturiert und ich freue mich darauf, mein Wissen weiter zu vertiefen.
+Zusätzlich haben wir in der IDE weiter an unseren Java-Programmen gearbeitet und erste einfache Code-Snippets geschrieben. Das Arbeiten mit der IDE hat uns ermöglicht, schneller Fehler zu finden und unseren Code zu verbessern. Der Tag war insgesamt gut strukturiert, und ich konnte viele neue Dinge lernen.
 
 ##### Aufgaben
 
