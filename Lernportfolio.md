@@ -36,6 +36,26 @@ Im Schulzimmer gelten Regeln wie Pünktlichkeit, respektvoller Umgang und sorgf�
 
 ### Tag 2 (28.02.2025)
 
+Heute hat das Modul 319 begonnen, in dem wir uns mit Java beschäftigen. Zuerst erhielten wir eine Einführung in die Sprache und ihre grundlegenden Konzepte. Mit Hilfe des Miro-Boards visualisierten wir zentrale Begriffe und Strukturen von Java, was uns half, ein erstes Verständnis für die Sprache zu entwickeln.
+
+Nach der theoretischen Einführung starteten wir mit der SOL-Aufgabe, um erste Programme in Java zu schreiben. So konnten wir die erlernten Grundlagen direkt anwenden und ein Gefühl für die SPrache bekommen. Zusätzlich haben wir unser Lernportfolio und das Nachweisportfolio auf GitHub erstellt und begonnen damit zu arbeiten. Dies dient dazu, unsere Fortschritte zu dokumentieren und unsere Arbeit strukturiert festzuhalten.
+
+Besonders hilfreich fand ich die Arbeit mit Miro, da man so einen guten Überblick über die wichtigsten Java-Konzepte bekommt. Die SOL-Aufgabe und die Arbeit mit GitHub haben mir einen praktischen Einstieg in Java und Versionsverwaltung gegeben. Insgesamt war der Tag gut strukturiert und ich freue mich darauf, mein Wissen weiter zu vertiefen.
+
+##### Aufgaben
+###### Aufgabe GitLAB
+**Was macht ein Versionskontrollsystem?**
+Ein Versionskontrollsystem wie Git speichert und verfolgt Änderungen am Code. Es ermöglicht Entwicklern, frühere Versionen wiederherzustellen, Fehler rückgängig zu machen und effizient im Team zusammenzuarbeiten.
+**Welche GIT Server kennen Sie?**
+GitHub, GitLab und Bitbucket sind bekannte Git-Server, die Entwicklern ermöglichen, Code zu verwalten, zu versionieren und gemeinsam daran zu arbeiten.
+**Was braucht es auf dem lokalen Rechner, um ein GIT-Repo zu unterhalten?**
+Du brauchst einen GitLab-Account, einen Code-Editor und GitBash, um den SSH-Link auf deinem Rechner zu klonen.
+**Das Konzept von Git verstehen (Screenccast ab Position 6:38)**
+![Git](Git_konzept)
+**Zwei Möglichkeiten, GIT-Kommandos auszuführen?**
+**Bedienung und Funktionsweise von GitHUB-Desktop**
+**Kann Gitlab-Seite auf Englisch anzeigen lassen.**
+
 ### Tag 3 (07.03.2025)
 
 ### Tag 4 (14.03.2025)
