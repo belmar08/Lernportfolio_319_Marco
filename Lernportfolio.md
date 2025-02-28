@@ -4,7 +4,7 @@
 
 ### Tag 1: Einführung in Java
 
-##### Datum: 21. Februar 2025
+#### Datum: 21. Februar 2025
 
 Heute hat das Modul 319 begonnen, in dem wir uns mit Java beschäftigen. Zuerst erhielten wir eine Einführung in die Sprache und ihre grundlegenden Konzepte. Mit Hilfe des Miro-Boards visualisierten wir zentrale Begriffe und Strukturen von Java, was uns half, ein erstes Verständnis für die Sprache zu entwickeln.
 
@@ -40,9 +40,9 @@ Ein Nachweis ist abgenommen, wenn er geprüft und als vollständig anerkannt wur
 
 Im Schulzimmer gelten Regeln wie Pünktlichkeit, respektvoller Umgang und sorgfältiger Umgang mit Materialien.
 
-#### Tag 2: GitHub, Java und IDE-Nutzung
+### Tag 2: GitHub, Java und IDE-Nutzung
 
-##### Datum: 28. Februar 2025
+#### Datum: 28. Februar 2025
 
 Heute war der zweite Tag im Modul 319, und wir haben uns weiter mit Java beschäftigt. Der Fokus lag dabei auf der Arbeit mit GitHub und der Nutzung einer IDE (Integrated Development Environment).
 
