@@ -12,7 +12,7 @@ Nach der theoretischen Einführung starteten wir mit der SOL-Aufgabe, um erste P
 
 Besonders hilfreich fand ich die Arbeit mit Miro, da man so einen guten Überblick über die wichtigsten Java-Konzepte bekommt. Die SOL-Aufgabe und die Arbeit mit GitHub haben mir einen praktischen Einstieg in Java und Versionsverwaltung gegeben. Insgesamt war der Tag gut strukturiert und ich freue mich darauf, mein Wissen weiter zu vertiefen.
 
-##### Aufgaben
+#### Aufgaben
 
 ###### Aufgabe SOL
 
@@ -50,7 +50,7 @@ Wir haben unser GitHub-Repo weiter bearbeitet und dabei erste Schritte mit der V
 
 Zusätzlich haben wir in der IDE weiter an unseren Java-Programmen gearbeitet und erste einfache Code-Snippets geschrieben. Das Arbeiten mit der IDE hat uns ermöglicht, schneller Fehler zu finden und unseren Code zu verbessern. Der Tag war insgesamt gut strukturiert, und ich konnte viele neue Dinge lernen.
 
-##### Aufgaben
+#### Aufgaben
 
 ###### Aufgabe GitLAB
 
