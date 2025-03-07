@@ -14,7 +14,7 @@ Besonders hilfreich fand ich die Arbeit mit Miro, da man so einen guten Überbli
 
 #### Aufgaben
 
-###### Aufgabe SOL
+##### Aufgabe SOL
 
 **Was ist ein Tandem?**
 
@@ -52,7 +52,7 @@ Zusätzlich haben wir in der IDE weiter an unseren Java-Programmen gearbeitet un
 
 #### Aufgaben
 
-###### Aufgabe GitLAB
+##### Aufgabe GitLAB
 
 **Was macht ein Versionskontrollsystem?**
 
@@ -92,7 +92,7 @@ Microsoft Edge: Der Übersetzungs-Prompt erscheint automatisch. Klicke auf "Tran
 
 Safari (macOS): Klicke auf den "Translate"-Button in der Adressleiste und wähle Englisch.
 
-###### Aufgabe JAVA IDE
+##### Aufgabe JAVA IDE
 
 **Wozu wird eine IDE verwendet?**
 
@@ -118,7 +118,71 @@ Du hast ein einfaches "test_java"-Programm in Java ausgeführt
 
 Du hast dein erstes Java-Projekt in ein Git-Repository auf einem Server hochgeladen.
 
-### Tag 3 (07.03.2025)
+### Tag 3: Variablen, Gültigkeitsbereiche und Programmstruktur
+
+#### Datum: 07. März 2025
+
+Heute habe ich mich intensiv mit den Grundlagen von Java beschäftigt und verschiedene wichtige Konzepte kennengelernt. Der Fokus lag dabei auf Variablen, Konstanten und dem Gültigkeitsbereich in einem Java-Programm.
+
+Ich habe gelernt, wie Variablen deklariert, initialisiert und verwendet werden. Zudem wurde der Unterschied zwischen lokalen und globalen Variablen behandelt und wann eine globale Variable durch eine lokale überdeckt wird. Besonders wichtig war das Verständnis, dass globale Variablen außerhalb von Methoden definiert werden und in der gesamten Klasse genutzt werden können, während lokale Variablen nur innerhalb ihres jeweiligen Blocks gültig sind.
+
+Zusätzlich habe ich mich mit grundlegenden Operatoren, Ausdrücken und Literalen in Java auseinandergesetzt. Diese Konzepte sind essenziell für die Erstellung von Berechnungen und die Verarbeitung von Benutzereingaben im Programm. Ein weiteres Thema war die Struktur eines Java-Programms und der Ablauf von der Quellcode-Erstellung bis zur Ausführung.
+
+Der Tag war lehrreich, und ich konnte viele wichtige Grundlagen festigen, die für das weitere Programmieren in Java notwendig sind.
+
+#### Aufgaben
+
+##### Aufgabe JAVA Basics
+
+**Sie kennen den Weg vom Quelltext zum Output in der JAVA-Welt.**
+
+Ein Quellcode wird grundsätzlich entweder "kompiliert" oder "interpretiert"
+Zuerst wird es in der Entwicklungszeit das Programm entwickelt. Danach wird der Gesammte Code bei der Laufzeit ausgeführt.
+
+**Sie kennen die (drei) grundsätzlichen Konzepte der Programmerstellung (Übersetzung).**
+
+Die drei grundlegenden Konzepte der Programmerstellung sind Kompilierung, Interpretation und der Hybrid-Ansatz.
+
+**Was ist ein "Ausdruck", ein "Literal", ein "Operator" und ein "Bezeichner".**
+
+Ein Ausdruck ist eine Kombination aus Operanden und Operatoren, ein Literal ist ein fester Wert im Code, ein Operator führt eine Berechnung oder Operation aus, und ein Bezeichner ist der Name für Variablen, Methoden oder Klassen.
+
+**Kenne den strukturellen Aufbau eines JAVA Programms.**
+
+![Git](./Bilder/Struktur_einfach.jpg)
+
+**Ein Projekt in der IDE mit "TBZ Template" eröffnet und ausgeführt.**
+
+![Git](./Bilder/IDE.png)
+Ein Projekt wird in der IDE mit dem TBZ-Template erstellt, bearbeitet und anschliessend ausgeführt
+
+**Kann ein einfaches Programm nachvollziehen.**
+
+Ein einfaches Programm kann durch Lesen, Verstehen und Testen des Codes nachvollzogen werden.
+
+**Kann mit eingegebenen Zahlen einfache Berechnungen kalkulieren.**
+
+![Git](./Bilder/Berechnung.png)
+Mit dieser Anleitung kann man Berechnungen durchführen und, wie in diesem Fall, eine Hypothenuse herausfinden.
+
+##### Aufgabe Variables Constants
+
+**Konzept der Variabeln (Konstanten) ist bekannt.  >> Behälter mit Name, Datentyp, Grösse und (fixem) Inhalt.**
+
+![Git](./Bilder/Variable.png)
+Variablen sind Speicherplätze mit Namen, Datentyp, Grösse und Wert. Konstanten haben einen festen Wert.
+
+**Erkenne Deklarierung, Initialisierung und Verwendung von Variablen (Konstanten).**
+
+Die Deklaration einer Variable bedeutet, dass ihr Name und ihr Datentyp festgelegt werden, jedoch noch kein Wert zugewiesen wird. Erst bei der Initialisierung erhält die Variable ihren ersten Wert, wodurch der entsprechende Speicherplatz belegt wird. Eine Variable kann anschliessend in verschiedenen Bereichen des Codes verwendet werden, beispielsweise in Berechnungen, Methoden oder zur Ausgabe von Werten.
+
+**Kann den Gültigkeitbereich "setzen". (Position der Deklarierung im Code!).**
+
+Der Gültigkeitsbereich einer Variable hängt von ihrer Deklaration ab. Lokale Variablen werden innerhalb einer Methode oder eines Blocks deklariert und sind nur dort gültig. Globale Variablen werden ausserhalb der Methoden, aber innerhalb einer Klasse deklariert und sind in der gesamten Klasse verwendbar.
+
+**Wann wird eine "globale" Variable übderdeckt?**
+
+Eine globale Variable wird überdeckt, wenn in einer Methode eine gleichnamige lokale Variable deklariert wird. In diesem Fall verwendet die Methode die lokale Variable, während die globale Variable ausserhalb der Methode unverändert bleibt.
 
 ### Tag 4 (14.03.2025)
 
