@@ -124,7 +124,7 @@ Du hast dein erstes Java-Projekt in ein Git-Repository auf einem Server hochgela
 
 Heute habe ich mich intensiv mit den Grundlagen von Java beschäftigt und verschiedene wichtige Konzepte kennengelernt. Der Fokus lag dabei auf Variablen, Konstanten und dem Gültigkeitsbereich in einem Java-Programm.
 
-Ich habe gelernt, wie Variablen deklariert, initialisiert und verwendet werden. Zudem wurde der Unterschied zwischen lokalen und globalen Variablen behandelt und wann eine globale Variable durch eine lokale überdeckt wird. Besonders wichtig war das Verständnis, dass globale Variablen außerhalb von Methoden definiert werden und in der gesamten Klasse genutzt werden können, während lokale Variablen nur innerhalb ihres jeweiligen Blocks gültig sind.
+Ich habe gelernt, wie Variablen deklariert, initialisiert und verwendet werden. Zudem wurde der Unterschied zwischen lokalen und globalen Variablen behandelt und wann eine globale Variable durch eine lokale überdeckt wird. Besonders wichtig war das Verständnis, dass globale Variablen ausserhalb von Methoden definiert werden und in der gesamten Klasse genutzt werden können, während lokale Variablen nur innerhalb ihres jeweiligen Blocks gültig sind.
 
 Zusätzlich habe ich mich mit grundlegenden Operatoren, Ausdrücken und Literalen in Java auseinandergesetzt. Diese Konzepte sind essenziell für die Erstellung von Berechnungen und die Verarbeitung von Benutzereingaben im Programm. Ein weiteres Thema war die Struktur eines Java-Programms und der Ablauf von der Quellcode-Erstellung bis zur Ausführung.
 
@@ -184,7 +184,17 @@ Der Gültigkeitsbereich einer Variable hängt von ihrer Deklaration ab. Lokale V
 
 Eine globale Variable wird überdeckt, wenn in einer Methode eine gleichnamige lokale Variable deklariert wird. In diesem Fall verwendet die Methode die lokale Variable, während die globale Variable ausserhalb der Methode unverändert bleibt.
 
-### Tag 4 (14.03.2025)
+### Tag 4: D1 und I1
+
+#### Datum: 14. März 2025
+
+Heute war ein intensiver Tag, der mit der Vorbereitung auf den D1-Test begann. Da ich beim ersten Versuch mit 15 von 24 Punkten leider nicht bestanden hatte, musste ich den Test noch einmal schreiben. Zwischen 9:00 und 10:30 Uhr habe ich intensiv gelernt, um mich für den zweiten Versuch besser vorzubereiten.
+
+Nach der erneuten Prüfung konnte ich den Test schliesslich mit 20 von 24 Punkten bestehen, was für mich eine Erleichterung war. Der erste Versuch war knapp und ich war froh, dass ich mich durch das zusätzliche Lernen verbessern konnte.
+
+Im Anschluss habe ich Donart bei der I1-Aufgabe unterstützt. Wir haben zusammen daran gearbeitet, und ich konnte ihm bei einigen schwierigen Aspekten helfen. Am Ende hat Donart die Aufgabe ebenfalls erfolgreich abgeschlossen.
+
+Der Tag war sehr lehrreich und produktiv. Ich habe viel über meine eigenen Lernstrategien und die Zusammenarbeit mit anderen gelernt.
 
 ### Tag 5 (21.03.2025)
 
