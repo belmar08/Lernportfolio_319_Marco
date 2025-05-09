@@ -196,8 +196,73 @@ Im Anschluss habe ich Donart bei der I1-Aufgabe unterstützt. Wir haben zusammen
 
 Der Tag war sehr lehrreich und produktiv. Ich habe viel über meine eigenen Lernstrategien und die Zusammenarbeit mit anderen gelernt.
 
-### Tag 5 (21.03.2025)
+### Tag 5: A1
+
+#### Datum: 21. März 2025
+
+Heute habe ich mich intensiv auf den A1-Test vorbereitet. Dabei habe ich mich besonders mit dem Thema "Flow Control" beschäftigt, um die verschiedenen Steuerstrukturen wie Schleifen und Bedingungen besser zu verstehen. Auch das Erstellen von Activity Diagrammen war ein wichtiger Teil der Vorbereitung, da es mir hilft, Abläufe visuell darzustellen und die Logik dahinter klarer zu erfassen. Es war eine gute Übung, um die Theorie mit praktischen Beispielen zu verbinden. Ich fühle mich jetzt sicherer und bin bereit für den Test. In der letzten Lektion habe ich diesen Test A1 geschrieben und bestanden mit 15/15 Punkten.
+
+##### Aufgabe UML Activity Diagram
+
+**Kenne die Symbole von AD (Standard UML 2.5+!)**
+
+![Git](./Bilder/Symbole.png)
+
+**Kann ein einfaches AD lesen und verstehen.**
+
+Ja kann ich hier sind beispiele:
+
+Fluss folgt den Pfeilen (Kontrollfluss)
+Jede Aktivität wird einmal ausgeführt, ausser bei Schleifen
+Entscheidungsknoten (◇) zeigt Verzweigungen an
+Parallele Abläufe mit Fork/Join ermöglichen mehrere Prozesse gleichzeitig
+
+**Habe ein UML-Tool installiert und kann ADs erstellen.**
+
+Ich habe für das UML-Tool DrawIO heruntergeladen.
+
+##### Aufgabe Flow Control
+
+**Wie wird der Programmfluss gesteuert?**
+
+Durch Sequenzen (lineare Ausführung), Verzweigungen (if, switch) und Schleifen (for, while, do-while).
+
+**Welche Bedingungen gibt es in JAVA?**
+
+![Git](./Bilder/Bedingungen.png)
+
+**Wie wird im Programm verzweigt?**
+
+if-else: Entscheidung basierend auf Bedingungen
+switch: Alternative zu mehreren if-Blöcken
+
+**Wie wird ein Block wiederholt?**
+
+for: Feste Anzahl an Wiederholungen
+while: Solange Bedingung erfüllt ist
+do-while: Mindestens eine Ausführung
+
+**Was ist eine Abstraktion? Wie funktioniert sie?**
+
+Versteckt Details, zeigt nur Wesentliches
+Umgesetzt mit abstrakten Klassen und Interfaces
 
 ### Tag 6 (28.03.2025)
 
+D2 wurde erfolgreich abgeschlossen, und E1 wurde als Gruppenarbeit bearbeitet. In der Gruppenarbeit haben wir intensiv zusammengearbeitet, um die Aufgaben zu lösen und Ideen auszutauschen. Anschliessend haben wir die Arbeit fortgesetzt und weiterhin an unserem Thema weitergearbeitet, um den Fortschritt voranzutreiben und alle offenen Punkte zu klären. Wir sind auf einem guten Weg und haben in der Gruppe effizient zusammengearbeitet.
+
 ### Tag 7 (04.04.2025)
+
+Heute habe ich die E2- und A2-Prüfung erfolgreich abgeschlossen. Beide Prüfungen habe ich konzentriert und gewissenhaft bearbeitet. Ich bin mit meinem Einsatz zufrieden und hatte ein gutes Gefühl während der Bearbeitung. Nach den Prüfungen habe ich begonnen, mich wieder auf die Teamarbeiten zu fokussieren. Ich setze mich nun intensiv mit den laufenden Gruppenprojekten auseinander, um unseren Fortschritt weiter voranzutreiben und meine Aufgaben darin zu erfüllen.
+
+### Tag 8 (11.04.2025)
+
+In den Modulen D3 und I2 arbeiten wir im Team an Projekten. Dabei ist es wichtig, gut zusammenzuarbeiten, Aufgaben klar zu verteilen und sich regelmäßig abzusprechen. So können wir Probleme schneller lösen und voneinander lernen. Gemeinsam schaffen wir mehr!
+
+### Tag 9 (09.05.2025)
+
+Heute habe ich an der Teamdokumentation und meinem Lerportfolio für die Aufgaben I3, E3, A4, D4 und E4 gearbeitet. Die Aufgaben wurden klar gelöst und gut dokumentiert. Die Zusammenarbeit im Team lief reibungslos beim erklären dem gegenseitigem Code, und wir konnten alle wichtigen Punkte festhalten.
+
+[Aufgabe: I3/E3/A4/D4/E4](./Einzelaufgaben_I3_E3_A4_D4_E4.zip)
+
+Es tut mir leid, dass ich die Einzelaufgaben erst jetzt abgebe. Ich werde in Zukunft darauf achten, die Abgaben pünktlicher zu erledigen. Morgen werde ich weiter an der Dokumentation arbeiten und offene Punkte ergänzen.
