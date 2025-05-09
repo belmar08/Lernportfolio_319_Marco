@@ -263,6 +263,8 @@ In den Modulen D3 und I2 arbeiten wir im Team an Projekten. Dabei ist es wichtig
 
 Heute habe ich an der Teamdokumentation und meinem Lerportfolio für die Aufgaben I3, E3, A4, D4 und E4 gearbeitet. Die Aufgaben wurden klar gelöst und gut dokumentiert. Die Zusammenarbeit im Team lief reibungslos beim erklären dem gegenseitigem Code, und wir konnten alle wichtigen Punkte festhalten.
 
-[Aufgabe: I3/E3/A4/D4/E4](./Einzelaufgaben_I3_E3_A4_D4_E4.zip)
+[Einzelaufgabe (Code): I3/E3/A4/D4/E4](./Einzelaufgaben_I3_E3_A4_D4_E4.zip)
+[Aufgabe: E3](./Review_Marco_M319_E3.pdf)
+![A4](./Bilder/A4.png)
 
 Es tut mir leid, dass ich die Einzelaufgaben erst jetzt abgebe. Ich werde in Zukunft darauf achten, die Abgaben pünktlicher zu erledigen. Morgen werde ich weiter an der Dokumentation arbeiten und offene Punkte ergänzen.
